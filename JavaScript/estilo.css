@@ -1,0 +1,40 @@
+#cabecera{
+    background-color: #eff1f1;
+    PADDING: 10PX;
+    COLOR: #0f66e9;
+}
+#menu{
+    background-color: #0f66e9;
+    padding: 10PX;
+margin-bottom: 10PX;
+}
+a.item_menu{
+    color:white;
+text-decoration:none;
+padding-top:10px;
+padding-bottom:10px;
+padding-left: 5px;
+padding-right: 5px;
+}
+a.item_menu:hover{
+    background-color: #4c2ae4;
+}
+*{ 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer{
+background-color: darkcyan;
+color: white;
+padding: 10px;
+box-shadow: 10px 5px 5px gray;}
+
+#deg1{
+    height: 500px;
+    background-image: linear-gradient(blue,rgb(171, 220, 239));
+}
+
+#deg2{
+    height: 200px;
+    background-image: linear-gradient(blue,white,green);
+}
