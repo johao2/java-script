@@ -23,11 +23,11 @@ mostrar.addEventListener("click", () => {
             imagen.alt = "Imagen de un carro";
             break;
         case "moto":
-            imagen.src = "motito.jpg"; // Ruta de la imagen de la moto
+            imagen.src = "Motito.jpg"; // Ruta de la imagen de la moto
             imagen.alt = "Imagen de una moto";
             break;
         case "bicicleta":
-            imagen.src = "bicicletita.jpg"; // Ruta de la imagen de la bicicleta
+            imagen.src = "Bicicletita.jpg"; // Ruta de la imagen de la bicicleta
             imagen.alt = "Imagen de una bicicleta";
             break;
         default:
